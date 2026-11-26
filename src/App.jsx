@@ -1,5 +1,5 @@
 const App = () => {
-  return (
+  retur (
     <>
       <p>Hello React Build Application</p>
     </>
