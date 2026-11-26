@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <p>Hello React Build Application</p>
+      <p>Hello React Build Application Buliding the app</p>
     </>
   );
 };

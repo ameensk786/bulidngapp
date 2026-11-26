@@ -2,7 +2,10 @@ name: React CI
 
 on:
   push:
-    branches: [main]
+    branches: 
+    - main
+    - test-build-failure
+    
 
 jobs:
   build:
